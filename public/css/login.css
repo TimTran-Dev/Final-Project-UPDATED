@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+.label {
+  color: white;
+  font-size: 1.3rem;
+}
+.form {
+  float: left;
+}
+.contact {
+  float: left;
+  margin-bottom: 50%;
+}
+.contact h3 {
+  color: white;
+}

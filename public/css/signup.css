@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+.signUp {
+  width: 50%;
+}
+.signUp label {
+  color: white;
+}
